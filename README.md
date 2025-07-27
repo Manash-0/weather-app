@@ -3,7 +3,7 @@ weather based on location
 
 ## 🌐 Live Demo
 
-[Click here to view deployed Weather App]([https://your-render-url.onrender.com](https://weather-app-1gsi.onrender.com))
+[Link](https://weather-app-1gsi.onrender.com)
 
 
 
